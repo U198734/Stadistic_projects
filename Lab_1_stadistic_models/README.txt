@@ -1,0 +1,2 @@
+Adjuntamos los archivos ya que hicimos una pequeña modificación. Para leer los archivos de manera correcta, cambiamos las comas (,) por puntos (.) de tal manera que pudimos leer directamente los valores numéricos. Igualmente dejamos los outputs ejecutados para que no tengaís que probar el código.
+Muchas gracias.
